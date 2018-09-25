@@ -1,0 +1,54 @@
+body{
+	background: url("../images/background.jpg"); 
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	color: rgb(31, 3, 129);
+	letter-spacing: 1.5px;
+	line-height: 3;
+}
+
+.btn-primary,.reset{
+	background-color: #1a41aafd;
+	letter-spacing: 1.5px;
+	color: rgb(227, 228, 231);
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	padding: 10px;
+	margin-top: 60px;
+	border-radius: 10px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: #74767a;	
+}
+
+.container{
+	margin-top: 350px; 
+	margin-left: 330px;
+	text-align: right;
+	height: 100%; 
+	width: 1000px; 
+	letter-spacing: 1.5px;
+	line-height: 1.8;
+}
+#finalMessage{
+	font-family: Raleway;
+	color: #102a70fd;
+	font-size: 36px;
+
+}
+#message{
+	font-family: Raleway;
+	color: #102a70fd;
+	font-size: 50px;
+}
+h3{
+	font-family: Raleway;
+	color: black;
+	line-height: 1.8;
+}
+
+.thisChoice:hover{
+	background-color: #c5c6cc;
+	color: rgb(123, 124, 128)e;
+	padding: 8px;
+}
